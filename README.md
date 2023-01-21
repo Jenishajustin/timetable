@@ -128,3 +128,6 @@ Execute the program
 # OUPUT
 ![MODEL](![timetable-sem1](https://user-images.githubusercontent.com/119405070/213879465-1355b3c1-445f-49fa-8679-13f3ab15c2cd.png)
 
+#RESULT:
+The timetable is executed successfully.
+
